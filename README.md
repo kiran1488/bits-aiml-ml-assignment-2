@@ -20,7 +20,7 @@ This project predicts whether a breast tumour is **malignant (1)** or **benign (
 
 ## c. GitHub Repository Link
 
-**Add your public GitHub repository URL here after creating and pushing this project:** `https://github.com/<your-username>/<your-repository>`
+**Add your public GitHub repository URL here after creating and pushing this project:** `[https://github.com/kiran1488/bits-aiml-ml-assignment-2]`
 
 Repository contents:
 - `app.py` — Streamlit frontend and evaluation logic.
@@ -68,7 +68,7 @@ The app includes:
 
 The CSV must contain all 30 feature columns and the `target` column. The app checks feature compatibility and does not retrain on uploaded data.
 
-**Live Streamlit Community Cloud URL:** `ADD YOUR DEPLOYED APP URL HERE`
+**Live Streamlit Community Cloud URL:** `[https://bits-aiml-ml-assignment-2-ah77seege8rbcrpdonwfnr.streamlit.app/]`
 
 ## How to run locally
 
@@ -95,6 +95,6 @@ Upload `test_data.csv` in the sidebar to evaluate a model.
 
 ## Assignment-specific final submission items
 
-- GitHub repository URL: **to be added by student**.
-- Live Streamlit app URL: **to be added after deployment**.
-- BITS Virtual Lab execution screenshot: **must be captured by the student while running the assignment in BITS Virtual Lab and inserted into the final submission PDF**.
+- GitHub repository URL: **https://github.com/kiran1488/bits-aiml-ml-assignment-2**.
+- Live Streamlit app URL: **https://bits-aiml-ml-assignment-2-ah77seege8rbcrpdonwfnr.streamlit.app/**.
+- BITS Virtual Lab execution screenshot: **Uploaded in final submission PDF**.
