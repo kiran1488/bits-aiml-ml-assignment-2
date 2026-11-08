@@ -18,9 +18,7 @@ This project predicts whether a breast tumour is **malignant (1)** or **benign (
 - **Preprocessing:** StandardScaler is included inside the Logistic Regression, KNN, Gaussian Naive Bayes and SVM pipelines. The Decision Tree is trained without scaling.
 - **Important:** the test CSV is held out from model fitting. The Streamlit app only loads the saved fitted model and calculates test metrics.
 
-## c. GitHub Repository Link
-
-**Add your public GitHub repository URL here after creating and pushing this project:** `[https://github.com/kiran1488/bits-aiml-ml-assignment-2]`
+## c. GitHub Repository Link:  https://github.com/kiran1488/bits-aiml-ml-assignment-2
 
 Repository contents:
 - `app.py` — Streamlit frontend and evaluation logic.
@@ -68,7 +66,7 @@ The app includes:
 
 The CSV must contain all 30 feature columns and the `target` column. The app checks feature compatibility and does not retrain on uploaded data.
 
-**Live Streamlit Community Cloud URL:** `[https://bits-aiml-ml-assignment-2-ah77seege8rbcrpdonwfnr.streamlit.app/]`
+**Live Streamlit Community Cloud URL:** https://bits-aiml-ml-assignment-2-ah77seege8rbcrpdonwfnr.streamlit.app/
 
 ## How to run locally
 
